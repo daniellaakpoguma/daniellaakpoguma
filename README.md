@@ -1,9 +1,7 @@
 
-###
 <div align="center">
   <img height="200" src="https://github.com/daniellaakpoguma/daniellaakpoguma/blob/main/Daniella%20Akpoguma%20banner.png"/>
 </div>
-###
 
 ## ABOUT ME 😄 🤍 
 Hi :)  My name is Daniella Akpoguma.  I am a Computer Engineering Technology student at Algonquin College, and I am currently on the exciting journey of becoming a software developer.
