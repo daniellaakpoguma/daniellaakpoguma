@@ -1,8 +1,4 @@
 
-<div align="center">
-  <img height="200" src="https://github.com/daniellaakpoguma/daniellaakpoguma/blob/main/Daniella%20Akpoguma%20banner.png"/>
-</div>
-
 ## ABOUT ME 😄 🤍 
 Hi :)  My name is Daniella Akpoguma. I am a passionate data enthusiast with a focus on data analysis and visualization. Here you'll find a variety of projects that showcase my skills and interests in the field of data science.
 
