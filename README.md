@@ -9,7 +9,7 @@ Hi :)  My name is Daniella Akpoguma. I am a passionate data enthusiast with a fo
 - **Data Visualization:** Tableau, Matplotlib, Plotly
 - **Machine Learning:** Scikit-learn
 - **Database Management:** MySQL, SQLite
-- **Tools:** MS Ecel, Jupyter Notebook, Git, GitHub
+- **Tools:** MS Excel, Jupyter Notebook, Git, GitHub
 
 Feel free to explore my repositories to see projects implemented in these languages!
 
