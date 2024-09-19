@@ -1,7 +1,6 @@
 
 ## ABOUT ME 😄 🤍 
-Hi :)  My name is Daniella Akpoguma. I am a passionate data enthusiast with a focus on data analysis and visualization. Here you'll find a variety of projects that showcase my skills and interests in the field of data science.
-
+👋 Hi there! I'm a Computer Engineering student at Algonquin College, passionate about technology, problem-solving, and innovation. I'm currently honing my skills in various programming languages and tools, including Python, C#, and more. My focus is on building a strong foundation in  data analysis, machine learning, project management, and software developer. With a growing interest in data analysis and machine learning, I'm working on building a portfolio that showcases my capabilities in these fields
 
 ## 💻 Skills
 - **Programming Languages:** Python, SQL, R
